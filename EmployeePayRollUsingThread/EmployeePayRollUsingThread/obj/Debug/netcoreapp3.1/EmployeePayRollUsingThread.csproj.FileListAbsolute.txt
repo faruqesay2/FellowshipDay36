@@ -1,0 +1,14 @@
+C:\Users\naruto\Desktop\BridgeLabz\Day36\EmployeePayRollUsingThread\EmployeePayRollUsingThread\obj\Debug\netcoreapp3.1\EmployeePayRollUsingThread.csproj.AssemblyReference.cache
+C:\Users\naruto\Desktop\BridgeLabz\Day36\EmployeePayRollUsingThread\EmployeePayRollUsingThread\obj\Debug\netcoreapp3.1\EmployeePayRollUsingThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naruto\Desktop\BridgeLabz\Day36\EmployeePayRollUsingThread\EmployeePayRollUsingThread\obj\Debug\netcoreapp3.1\EmployeePayRollUsingThread.AssemblyInfoInputs.cache
+C:\Users\naruto\Desktop\BridgeLabz\Day36\EmployeePayRollUsingThread\EmployeePayRollUsingThread\obj\Debug\netcoreapp3.1\EmployeePayRollUsingThread.AssemblyInfo.cs
+C:\Users\naruto\Desktop\BridgeLabz\Day36\EmployeePayRollUsingThread\EmployeePayRollUsingThread\obj\Debug\netcoreapp3.1\EmployeePayRollUsingThread.csproj.CoreCompileInputs.cache
+C:\Users\naruto\Desktop\BridgeLabz\Day36\EmployeePayRollUsingThread\EmployeePayRollUsingThread\bin\Debug\netcoreapp3.1\EmployeePayRollUsingThread.exe
+C:\Users\naruto\Desktop\BridgeLabz\Day36\EmployeePayRollUsingThread\EmployeePayRollUsingThread\bin\Debug\netcoreapp3.1\EmployeePayRollUsingThread.deps.json
+C:\Users\naruto\Desktop\BridgeLabz\Day36\EmployeePayRollUsingThread\EmployeePayRollUsingThread\bin\Debug\netcoreapp3.1\EmployeePayRollUsingThread.runtimeconfig.json
+C:\Users\naruto\Desktop\BridgeLabz\Day36\EmployeePayRollUsingThread\EmployeePayRollUsingThread\bin\Debug\netcoreapp3.1\EmployeePayRollUsingThread.runtimeconfig.dev.json
+C:\Users\naruto\Desktop\BridgeLabz\Day36\EmployeePayRollUsingThread\EmployeePayRollUsingThread\bin\Debug\netcoreapp3.1\EmployeePayRollUsingThread.dll
+C:\Users\naruto\Desktop\BridgeLabz\Day36\EmployeePayRollUsingThread\EmployeePayRollUsingThread\bin\Debug\netcoreapp3.1\EmployeePayRollUsingThread.pdb
+C:\Users\naruto\Desktop\BridgeLabz\Day36\EmployeePayRollUsingThread\EmployeePayRollUsingThread\obj\Debug\netcoreapp3.1\EmployeePayRollUsingThread.dll
+C:\Users\naruto\Desktop\BridgeLabz\Day36\EmployeePayRollUsingThread\EmployeePayRollUsingThread\obj\Debug\netcoreapp3.1\EmployeePayRollUsingThread.pdb
+C:\Users\naruto\Desktop\BridgeLabz\Day36\EmployeePayRollUsingThread\EmployeePayRollUsingThread\obj\Debug\netcoreapp3.1\EmployeePayRollUsingThread.genruntimeconfig.cache
